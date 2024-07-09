@@ -1,0 +1,57 @@
+.uu{
+    background-color: rgb(30, 57, 57);
+    width: 475px;
+    height: 500px;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.we{
+    font-size: 40px;
+    color:aliceblue;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+h3{
+    background-color: aliceblue;
+    width:300px;
+    height: 75px;
+    text-align: center;
+    margin: 1px;
+    padding:1px;
+    border-radius: 2px;
+}
+.yy{
+    margin-left: 20px;
+}
+h1{
+    background-color:red;
+    color: aliceblue;
+    text-align: center;
+    width: 100px;
+    height: 75px;
+    margin-left: 325px;
+    position: relative;
+    bottom: 82px;
+    left: 10px;
+}
+.ed{
+    width: 100px;
+    height: 75px;
+    position: relative;
+    bottom: 75px;
+    left: 20px;
+}
+.ed{
+    width: 100px;
+    height: 75px;
+    position: relative;
+    left: 20px;
+    bottom: 75px;
+}
+.ed{
+    width: 100px;
+    height: 75px;
+    position: relative;
+    left: 20px;
+    bottom: 75px;
+}
